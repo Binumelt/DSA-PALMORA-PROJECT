@@ -61,6 +61,12 @@ To analyze HR data and generate actionable insights for management, focusing on:
 - Excel  
 - GitHub for version control and publishing
 
+
+## ✅ Recommendations
+- Standardize pay bands and carrying out of internal pay audits regularly.
+- Encourage more inclusive hiring and advancement procedures.
+- Make specific wage changes in areas that do not comply.
+- Apply performance reviews more fairly when allocating bonuses.
 ---
 
 ## ✍🏽 Author
